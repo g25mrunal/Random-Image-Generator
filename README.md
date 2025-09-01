@@ -11,3 +11,5 @@ A simple web app that displays a new random image each time you interact with it
 git clone https://github.com/g25mrunal/Random-Image-Generator.git
 cd Random-Image-Generator
 open index.html
+
+
